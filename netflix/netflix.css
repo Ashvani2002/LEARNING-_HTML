@@ -1,0 +1,12 @@
+.f1{
+display: flex;
+justify-content: space-between;
+background-color: black;
+color: wheat;
+height: 200px;
+}
+.nitin{
+    display: flex;
+    justify-content: space-between
+    ;
+}
